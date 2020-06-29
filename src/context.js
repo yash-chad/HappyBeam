@@ -69,7 +69,7 @@ class ProductProvider extends Component {
   };
 
   openModal = (id) => {
-    console.log("From openModal");
+    // console.log("From openModal");
     const product = this.getItem(id);
     this.setState(() => {
       return { modalProduct: product, modalOpen: true };
@@ -77,7 +77,7 @@ class ProductProvider extends Component {
   };
 
   closeModal = () => {
-    console.log("From closeModal");
+    // console.log("From closeModal");
     this.setState(() => {
       return { modalOpen: false };
     });
@@ -108,7 +108,6 @@ class ProductProvider extends Component {
     product.count -= 1;
     product.total -= product.price;
     if (product.count === 0) {
-      console.log("ahi zero");
       this.removeItem(id, () => {
         this.setState(
           () => {
@@ -132,8 +131,7 @@ class ProductProvider extends Component {
   };
 
   removeItem = (id) => {
-    console.log(id);
-    console.log("From removeItems");
+    // console.log("From removeItems");
     let tempProducts = [...this.state.products];
     let tempCart = [...this.state.cart];
     tempCart = tempCart.filter((item) => {
