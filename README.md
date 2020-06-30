@@ -2,8 +2,8 @@
 
 ## Screenshots
 ![alt text](https://github.com/yash-chad/HappyBeam/blob/master/Screenshots/main_page.png?raw=true)
-![alt text](https://github.com/yash-chad/HappyBeam/blob/master/Screenshots/modal.png?raw=true)
-![alt text](https://github.com/yash-chad/HappyBeam/blob/master/Screenshots/checkout.png?raw=true)
+![alt text](https://github.com/yash-chad/HappyBeam/blob/master/Screenshots/modal.PNG?raw=true)
+![alt text](https://github.com/yash-chad/HappyBeam/blob/master/Screenshots/checkout.PNG?raw=true)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
