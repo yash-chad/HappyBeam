@@ -1,8 +1,9 @@
+### The website is hosted live at https://happybeam.netlify.app/
+
+## Screenshots
 ![alt text](https://github.com/yash-chad/HappyBeam/blob/master/Screenshots/main_page.png?raw=true)
-
-
-
-
+![alt text](https://github.com/yash-chad/HappyBeam/blob/master/Screenshots/modal.png?raw=true)
+![alt text](https://github.com/yash-chad/HappyBeam/blob/master/Screenshots/checkout.png?raw=true)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
